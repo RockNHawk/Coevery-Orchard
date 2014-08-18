@@ -264,7 +264,8 @@ namespace Orchard.Environment.Extensions {
             // Sort by last modification date/loader order
             return firstNonEmptyGroup
                 .OrderByDescending(probe => GetVirtualPathDepedenciesModificationTimeUtc(virtualPathModficationDates, probe))
-                .ThenBy(probe => probe.Loader.Order)
+                .ToList()
+                .OrderBy(probe => probe.Loader.Order)
                 .ToList();
         }
 
