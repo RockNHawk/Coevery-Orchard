@@ -214,7 +214,9 @@
     </VisualStudio>
   </ProjectExtensions>
   <PropertyGroup>
-    <PostBuildEvent>copy "$(TargetPath)" "$(SolutionDir)Orchard.Web\Modules\Coevery.DynamicTypes\bin\"</PostBuildEvent>
+    <!-- LFW: PostBuildEvent failing when running ClickToCommand.cmd because Coevery.DynamicTypes\bin\ folder did not yet exist. 
+	Unknown reason why it is present: Perhaps just work in progress? -->
+    <!-- <PostBuildEvent>copy "$(TargetPath)" "$(SolutionDir)Orchard.Web\Modules\Coevery.DynamicTypes\bin\"</PostBuildEvent> -->
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
