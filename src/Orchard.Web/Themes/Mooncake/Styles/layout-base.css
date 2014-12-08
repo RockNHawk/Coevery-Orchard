@@ -61,7 +61,6 @@ body {
 
 
 #wrapper {
-    max-width: 1536px;
     min-width: 320px;
     margin: 0 auto;
 }
@@ -125,7 +124,6 @@ body {
         }
 
             #header .navbar-inner .container {
-                max-width: 1536px;
                 width: auto;
             }
 

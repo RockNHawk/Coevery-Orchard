@@ -352,7 +352,8 @@ screen < 767px
 
     #wrapper {
         margin: 0 auto;
-        padding: 0;
+        padding-left: 20px;
+        padding-right: 20px;
     }
 
         #wrapper #sidebar {
