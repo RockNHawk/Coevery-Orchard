@@ -1,5 +1,6 @@
-Coevery
+Coevery (ASP.NET MVC CRM/data-centric applications platform)
 =======
+
 
 ## Demo
 http://coeverydemo.novasoftware.cn
@@ -9,29 +10,42 @@ Password: 123456789
 
 ##How to install it
 
-If you'd like to deploy Coevery on your computer, please follow the instructions [Installing with Microsoft Web Platform Installer](https://github.com/Coevery/Coevery/wiki/Installing-with-Microsoft-Web-Platform-Installer)
+If you'd like to deploy Coevery on your computer, please download the repository ZIP file and follow the instructions at the link, choosing 'Coevery' for the Orchard recipe: [Manually installing Orchard: Running the Site Using Visual Studio and the Visual Studio Development Server](http://docs.orchardproject.net/Documentation/Manually-installing-Orchard-zip-file#RunningtheSiteUsingVisualStudioandtheVisualStudioDevelopmentServer)
+
+##How to use it
+
+Coevery user guide YouTube video: 
+
+[![Coevery user guide](http://img.youtube.com/vi/4g1N_P0-5WM/0.jpg)](http://www.youtube.com/watch?v=4g1N_P0-5WM)
+
+##Frameworks, libraries and plug-ins include;
+
+* [Orchard Project CMS](http://www.orchardproject.net/)
+* [AngularJS](https://angularjs.org/)
+* [Bootstrap](http://getbootstrap.com/)
+* [bootstrap-datetimepicker.js](http://www.eyecon.ro/bootstrap-datepicker)
+* [jQuery](http://jquery.com/)
+* [jQuery-UI](http://jqueryui.com/)
+* [jQuery: jqGrid](http://www.trirand.com/jqgridwiki/doku.php)
+* [jQuery: simplePagination.js](http://flaviusmatis.github.io/simplePagination.js/)
+* [jQuery: perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar)
+* [jQuery: jquery-mousewheel](https://github.com/jquery/jquery-mousewheel)
+* [jQuery: jquery-placeholder](https://github.com/mathiasbynens/jquery-placeholder)
+* [jQuery: export-jqplot-to-png](https://github.com/lsiden/export-jqplot-to-png)
+
 
 Please help out
 ---------------
 This project is still under development. 
 
-Feedback and suggestions are very
-welcome and we encourage you to use the [Issues
-list](https://github.com/Coevery/Coevery/issues) on Github to provide that
-feedback.
+Feedback and suggestions are very welcome. 
 
-We also encourage you to post your ideas and suggestions on [User Voice](http://coevery.uservoice.com)
-
-
-Feel free to fork this repo and to commit your additions. 
-
-Any questions, tips, or general discussion can be posted to our Google group:
-[http://groups.google.com/group/coevery](http://groups.google.com/group/coevery)
+Please use the [Issues list](https://github.com/Coevery/Coevery/issues) on Github, including a reference to this fork (lfurzewaddock/Coevery-Orchard) to provide feedback and report bugs.
 
 Contributing
 ------------
-Fork the repository. Then, do work and commit your changes. 
-When done, open a pull request.
+Feel free to fork this repository, commit your changes and make pull requests. 
+
 
 ## License
 ### The Coevery Public License Version 3.0 ("CPL")
