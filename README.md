@@ -1,6 +1,9 @@
-Coevery (ASP.NET MVC CRM/data-centric applications platform)
+Coevery
 =======
 
+##What is Coevery?
+
+Coevery is an ASP.NET MVC CRM/data-centric applications platform.
 
 ## Demo
 http://coeverydemo.novasoftware.cn
