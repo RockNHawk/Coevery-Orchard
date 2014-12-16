@@ -5,7 +5,7 @@ Coevery
 
 Coevery is an ASP.NET MVC CRM/data-centric applications platform.
 
-## Demo
+##Demo
 http://coeverydemo.novasoftware.cn
 
 User Name: admin  
@@ -21,6 +21,16 @@ Coevery user guide YouTube video:
 
 [![Coevery user guide](http://img.youtube.com/vi/4g1N_P0-5WM/0.jpg)](http://www.youtube.com/watch?v=4g1N_P0-5WM)
 
+Please help out
+---------------
+This project is still under development. 
+
+Please use Github [Issues](https://github.com/lfurzewaddock/Coevery-Orchard/issues), for feedback, existing issue comments, feature suggestions and reporting bugs.
+
+Contributing
+------------
+Feel free to fork this repository, commit your changes and make pull requests. 
+
 ##Frameworks, libraries and plug-ins include;
 
 * [Orchard Project CMS](http://www.orchardproject.net/)
@@ -35,20 +45,6 @@ Coevery user guide YouTube video:
 * [jQuery: jquery-mousewheel](https://github.com/jquery/jquery-mousewheel)
 * [jQuery: jquery-placeholder](https://github.com/mathiasbynens/jquery-placeholder)
 * [jQuery: export-jqplot-to-png](https://github.com/lsiden/export-jqplot-to-png)
-
-
-Please help out
----------------
-This project is still under development. 
-
-Feedback and suggestions are very welcome. 
-
-Please use the [Issues list](https://github.com/Coevery/Coevery/issues) on Github, including a reference to this fork (lfurzewaddock/Coevery-Orchard) to provide feedback and report bugs.
-
-Contributing
-------------
-Feel free to fork this repository, commit your changes and make pull requests. 
-
 
 ## License
 ### The Coevery Public License Version 3.0 ("CPL")
